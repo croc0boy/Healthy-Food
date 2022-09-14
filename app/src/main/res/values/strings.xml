@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Healthy Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="favourite">favourite</string>
+    <string name="home">home</string>
+    <string name="shopping">shopping</string>
+
+    <string name="api_key">dccb590dc8bd45faa2f36f9775940e4f</string>
 </resources>
